@@ -1,1 +1,4 @@
 # NumpyMiniProject
+
+* this
+* * this
